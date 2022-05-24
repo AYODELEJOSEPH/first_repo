@@ -1,0 +1,15 @@
+GIT/GITHUB
+git global information tracking
+cli command line interface
+github gitlab bitbucket
+command prompt 
+ide
+gui graphic user interface
+cd change directry
+dir list directory
+mkdir make directry
+md make directry
+. is to open explorer in cmd
+cd.. to go back in cmd
+rd to remove directry
+cd../.. to go back two folders
